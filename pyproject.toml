@@ -1,0 +1,24 @@
+[project]
+name = "new-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.0.20",
+    "flask>=3.1.1",
+    "gradio>=5.44.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-experimental>=0.3.4",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.32",
+    "llama-cpp-python>=0.3.16",
+    "llama-index>=0.13.3",
+    "llama-index-vector-stores-chroma>=0.5.2",
+    "pydantic>=2.11.7",
+    "pypdf>=6.0.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "sentence-transformers>=5.1.0",
+]

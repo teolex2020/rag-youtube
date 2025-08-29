@@ -1,0 +1,49 @@
+{
+  "saved_pdf": {
+    "path": "C:\\Users\\teole\\OneDrive\\Рабочий стол\\courseAgent\\new_app\\uploads\\0cc34bb218e540f8ba373112beec23fe.pdf",
+    "basename": "0cc34bb218e540f8ba373112beec23fe.pdf",
+    "size_bytes": 31406,
+    "mtime": "2025-08-29 14:08:15"
+  },
+  "chroma_dir": "C:\\Users\\teole\\OneDrive\\Рабочий стол\\courseAgent\\new_app\\chroma_data",
+  "strategy": "baseline",
+  "retriever_mode": "mmr",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "idx": 0,
+      "page": 0,
+      "section_title": "Резюме",
+      "chars": 249,
+      "preview": "Резюме Ім'я: Марко Руденко Професія: Інженер штучного інтелекту Email: marko.rudenko@example.com | Телефон: +380 67 123 45 67 Місто: Львів, Україна Професійне кредо: «Технології існують для того, щоб покращувати життя людей, а не ускладнювати його.»"
+    },
+    {
+      "idx": 1,
+      "page": 1,
+      "section_title": "Досвід роботи",
+      "chars": 459,
+      "preview": "Досвід роботи 2020 – сьогодні — Головний інженер AI, NeoTech Solutions Розробка систем комп’ютерного зору для промислових роботів. Керівництво командою з 12 інженерів. 2016 – 2020 — Machine Learning Engineer, GlobalSoft Створення рекомендаційних систем для e-commerce, впровадження NLP-моделей для клієнтської підтримки. 2013 – 2016 — Data Analyst, DataVision Аналітика великих обсягів даних, побудов"
+    },
+    {
+      "idx": 2,
+      "page": 2,
+      "section_title": "Освіта",
+      "chars": 405,
+      "preview": "Освіта 2011 – 2013: Магістр з комп’ютерних наук, Київський політехнічний інститут 2007 – 2011: Бакалавр з прикладної математики, Львівський національний університет Сертифікати - Deep Learning Specialization — Coursera (Andrew Ng) - Natural Language Processing — Stanford Online - Cloud Computing Fundamentals — IBM - Agile Development and Scrum — IBM - Cybersecurity for Everyone — University of Mar"
+    },
+    {
+      "idx": 3,
+      "page": 3,
+      "section_title": "Навички",
+      "chars": 499,
+      "preview": "Навички - Мови програмування: Python, JavaScript, C++ - Фреймворки: TensorFlow, PyTorch, Scikit-learn, React - Бази даних: PostgreSQL, MongoDB, Qdrant - Інструменти: Docker, Git, Kubernetes - Soft skills: Лідерство, комунікація, стратегічне мислення Досягнення - Опубліковано 15 статей у міжнародних журналах з AI. - Винахідник системи прогнозування трафіку для смарт-міст. - Спікер на конференціях з"
+    },
+    {
+      "idx": 4,
+      "page": 4,
+      "section_title": "Додаткові дані",
+      "chars": 123,
+      "preview": "Додаткові дані Мови: українська (рідна), англійська (C1), німецька (B2) Інтереси: робототехніка, подорожі, шахи, фотографія"
+    }
+  ]
+}
